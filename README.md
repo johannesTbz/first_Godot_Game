@@ -1,6 +1,8 @@
 # My first godot game
 A platformer created with inspiration from Brackeys.
+
 The assets used in this game are not created by me.
+
 Made in Godot ver 4.4
 
 CREDIT:
